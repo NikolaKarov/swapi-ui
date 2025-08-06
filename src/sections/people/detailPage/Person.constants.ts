@@ -1,0 +1,15 @@
+export const DISPLAY_FIELDS = [
+  { key: "name", label: "Name" },
+  { key: "height", label: "Height" },
+  { key: "mass", label: "Mass" },
+  { key: "hair_color", label: "Hair Color" },
+  { key: "skin_color", label: "Skin Color" },
+  { key: "eye_color", label: "Eye Color" },
+  { key: "birth_year", label: "Birth Year" },
+  { key: "gender", label: "Gender" },
+  { key: "homeworld", label: "Homeworld" },
+  { key: "films", label: "Films" },
+  { key: "species", label: "Species" },
+  { key: "vehicles", label: "Vehicles" },
+  { key: "starships", label: "Starships" },
+];

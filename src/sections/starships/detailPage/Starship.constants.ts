@@ -1,0 +1,17 @@
+export const DISPLAY_FIELDS = [
+  { key: "name", label: "Name" },
+  { key: "model", label: "Model" },
+  { key: "manufacturer", label: "Manufacturer" },
+  { key: "starship_class", label: "Class" },
+  { key: "cost_in_credits", label: "Cost" },
+  { key: "length", label: "Length" },
+  { key: "max_atmosphering_speed", label: "Max Speed" },
+  { key: "crew", label: "Crew" },
+  { key: "passengers", label: "Passengers" },
+  { key: "cargo_capacity", label: "Cargo Capacity" },
+  { key: "consumables", label: "Consumables" },
+  { key: "hyperdrive_rating", label: "Hyperdrive Rating" },
+  { key: "MGLT", label: "MGLT" },
+  { key: "pilots", label: "Pilots" },
+  { key: "films", label: "Films" },
+];
